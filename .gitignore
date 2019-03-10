@@ -1,0 +1,6 @@
+# MURA data files
+MURA-v1.1.zip
+MURA-v1.1/
+
+# jupyter stuff
+.ipynb_checkpoints/
