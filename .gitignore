@@ -4,3 +4,5 @@ MURA-v1.1/
 
 # jupyter stuff
 .ipynb_checkpoints/
+.Rhistory
+.Rdata
